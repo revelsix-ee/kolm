@@ -1,5 +1,5 @@
-# remote_theme: itszariep/Tessera
-theme: minima
-title: revelsix-ee's personal blog
+# theme: minima
+remote_theme: itszariep/Tessera
+title: revelsix.ee
 description: This is where I share cool stuff about my life
-author: revelsix-ee
+author: revelsix
